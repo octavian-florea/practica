@@ -1,0 +1,4 @@
+- get users data from form
+- find user in DB (userRepository->findById)
+- if fownd check password
+- if ok log in user

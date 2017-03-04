@@ -1,0 +1,8 @@
+uid
+nume
+tip
+
+- setNume
+- getNume
+- setTip
+- getTip

@@ -1,0 +1,14 @@
+1) Client layer
+    - bootstrap
+    - angular js (MVC)
+
+2) Service layer (REST)
+    - will acces the domain layer
+
+3) Domaine layer
+    - ruless/bussines layer
+
+4) Acces layer
+    - enteties
+    - repositoryes
+    - CRUD db
